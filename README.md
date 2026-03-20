@@ -1,4 +1,13 @@
 ## Hi there 👋
+- CEO [@antller](http://antller.com/) 
+- Animal Scientist 🐷🐮🐶🐔
+- [This](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md) is my curriculum vitae.
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
 
 <!--
 **openctas/openctas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
